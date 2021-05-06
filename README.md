@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umur</h1>
 <h3 align="center">A passionate full stack developer from Netherlands</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umuralpay&label=Profile%20views&color=0e75b6&style=flat" alt="umuralpay" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umuralpay" alt="umuralpay" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/umuralpay" target="blank"><img src="https://img.shields.io/twitter/follow/umuralpay?logo=twitter&style=for-the-badge" alt="umuralpay" /></a> </p>
