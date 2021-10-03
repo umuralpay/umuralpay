@@ -1,0 +1,27 @@
+{
+  "name": "umuralpay",
+  "version": "1.0.0",
+  "description": "About Umur Alpay",
+  "main": "umuralpay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umuralpay/ua.git"
+  },
+  "keywords": [
+    "umuralpay",
+    "ualpay",
+    "ua"
+  ],
+  "bin": {
+    "umuralpay": "umuralpay.js"
+  },
+  "author": "Umur Alpay <umuralpay@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umuralpay/ua/issues"
+  },
+  "homepage": "https://github.com/umuralpay/ua#readme"
+}
